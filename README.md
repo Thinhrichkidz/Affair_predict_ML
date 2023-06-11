@@ -1,6 +1,6 @@
 # Affair_predict
  
-This repository contains code for predicting whether or not someone will have an affair. The code uses a Random Forest classifier to predict the target variable, `affairs`  , from a set of features. The features include the person's age, years married, religiousness, education, rating, gender, children, and occupation.
+This repository contains code for predicting whether or not someone will have an affair. The code uses a Machine Learning, Random Forest classifier to predict the target variable, `affairs`  , from a set of features. The features include the person's age, years married, religiousness, education, rating, gender, children, and occupation.
 
 <h3>Getting Started</h3>
 <p>To get started, clone the repository: </p>
